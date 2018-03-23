@@ -1,0 +1,21 @@
+.liveBooking .brand {
+    background-image: url(https://www.spargo-hairdressing.net/s/misc/logo.jpg?t=1520439574);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-origin: content-box;
+    padding: 10px;
+}
+
+.liveBooking .brand h2 {
+    visibility: hidden;
+}
+
+html.js.flexbox.flexboxlegacy.canvas.canvastext.webgl.no-touch.geolocation.postmessage.websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths {
+    background-image: url(https://www.spargo-hairdressing.net/s/img/background.jpg?1494235025);
+}
+
+body.SalonControl {
+    background-color: #ffffff;
+}
+
